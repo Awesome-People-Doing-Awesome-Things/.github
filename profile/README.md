@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-Are you interested in doing Awesome Things? Are you an Awesome person? Well you've come to the right place! 
-
-# Welcome!!
-
-If you would like to join this organization, please contact the Organization Owner to get started!
+Are you interested in doing Awesome Things? Are you an Awesome person? Well you've come to the right place! If you would like to join the fun, then please contact the __Organization Owner__ to get started!
 <!--
 
 **Here are some ideas to get you started:**
